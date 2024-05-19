@@ -1,6 +1,5 @@
-2024/05/18-22:57:13.305 fdc Recovering log #16
-2024/05/18-22:57:13.306 fdc Level-0 table #18: started
-2024/05/18-22:57:13.321 fdc Level-0 table #18: 592 bytes OK
-2024/05/18-22:57:13.326 fdc Delete type=0 #16
-2024/05/18-22:57:13.326 fdc Delete type=3 #15
-2024/05/18-22:57:13.328 7c6c Moved #18 to level-1 592 bytes OK: files[ 3 1 0 0 0 0 0 ]
+2024/05/18-23:19:03.908 7574 Recovering log #22
+2024/05/18-23:19:03.908 7574 Level-0 table #25: started
+2024/05/18-23:19:03.925 7574 Level-0 table #25: 773 bytes OK
+2024/05/18-23:19:03.928 7574 Delete type=0 #22
+2024/05/18-23:19:03.928 7574 Delete type=3 #20
