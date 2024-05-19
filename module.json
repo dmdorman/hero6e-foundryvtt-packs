@@ -36,11 +36,18 @@
             "path": "packs/heroMacros"
         },
         {
-            "name": "HeroPowers",
-            "label": "Hero Powers",
+            "name": "hero5ePowers",
+            "label": "Hero 5e Powers",
+            "system": "hero5efoundryvttv2",
+            "type": "Item",
+            "path": "packs/hero5ePowers"
+        },
+        {
+            "name": "hero6ePowers",
+            "label": "Hero 6e Powers",
             "system": "hero6efoundryvttv2",
             "type": "Item",
-            "path": "packs/powersCompendium"
+            "path": "packs/hero6ePowers"
         }
     ],
     "url": "https://github.com/dmdorman/hero6e-foundryvtt-packs",
