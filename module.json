@@ -1,0 +1,52 @@
+{
+    "id": "hero6efoundryvttv2packs",
+    "title": "Hero System 6e (Unofficial) v2 Packs",
+    "description": "Packs For The Hero System 6e for FoundryVTT!",
+    "authors": [
+        {
+            "name": "bodiddley"
+        }
+    ],
+    "version": "0.1",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11.315",
+        "maximum": "11.315"
+    },
+    "esmodules": [],
+    "styles": [],
+    "languages": [],
+    "relationships": {
+        "systems": [{
+            "id": "hero6efoundryvttv2",
+            "type": "system",
+            "manifest": "https://github.com/dmdorman/hero6e-foundryvtt/blob/main/system.json",
+            "compatibility": {
+                "verified": "3.0.70"
+            }
+        }]
+    },
+    "system": ["hero6efoundryvttv2"],
+	"packs": [
+        {
+            "name": "heroMacros2",
+            "label": "Hero Macros 2",
+            "system": "hero6efoundryvttv2",
+            "type": "Macro",
+            "path": "packs/heroMacros"
+        },
+        {
+            "name": "testCompendium2",
+            "label": "Test Compendium 2",
+            "system": "hero6efoundryvttv2",
+            "type": "Item",
+            "path": "packs/testCompendium"
+        }
+    ],
+    "url": "",
+    "manifest": "",
+    "download": "",
+    "license": "",
+    "changelog": "",
+    "bugs": ""
+}
