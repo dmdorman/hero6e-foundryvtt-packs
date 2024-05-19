@@ -1,0 +1,1 @@
+# hero6e-foundryvtt-packs
