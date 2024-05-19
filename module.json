@@ -29,18 +29,18 @@
     "system": ["hero6efoundryvttv2"],
 	"packs": [
         {
-            "name": "heroMacros2",
-            "label": "Hero Macros 2",
+            "name": "heroMacros",
+            "label": "Hero Macros",
             "system": "hero6efoundryvttv2",
             "type": "Macro",
             "path": "packs/heroMacros"
         },
         {
-            "name": "testCompendium2",
-            "label": "Test Compendium 2",
+            "name": "HeroPowers",
+            "label": "Hero Powers",
             "system": "hero6efoundryvttv2",
             "type": "Item",
-            "path": "packs/testCompendium"
+            "path": "packs/powersCompendium"
         }
     ],
     "url": "https://github.com/dmdorman/hero6e-foundryvtt-packs",
