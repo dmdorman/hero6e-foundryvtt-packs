@@ -43,8 +43,8 @@
             "path": "packs/testCompendium"
         }
     ],
-    "url": "",
-    "manifest": "",
+    "url": "https://github.com/dmdorman/hero6e-foundryvtt-packs",
+    "manifest": "https://github.com/dmdorman/hero6e-foundryvtt-packs/blob/main/module.json",
     "download": "",
     "license": "",
     "changelog": "",
